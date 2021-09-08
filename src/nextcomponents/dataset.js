@@ -61,4 +61,5 @@ const whyData = [
     }
 ]
 
+
 export default {whyData};
